@@ -10,7 +10,7 @@ I enjoy working on backend architecture, authentication and security, distribute
 
 A Python/FastAPI backend for converting engineering source documents into searchable, traceable evidence and structured decision records.
 
-**Highlights:** FastAPI · PostgreSQL · pgvector · SQLAlchemy · background workers · concurrency-safe processing · authentication · authorization · refresh-token rotation · audit history · automated testing
+**Highlights:** FastAPI · PostgreSQL · pgvector · SQLAlchemy · background workers · concurrency-safe processing · authentication · server-side sessions · audit history · automated testing
 
 [View project →](https://github.com/Geocoder89/engineering-knowledge-platform)
 
@@ -41,4 +41,4 @@ A TypeScript serverless API migrated to explicit Terraform-managed AWS infrastru
 
 ## Currently Building
 
-I'm continuing to develop the **Engineering Knowledge & Decision Workflow Platform**, with current work focused on identity, authentication, authorization, security controls, and production hardening.
+I'm continuing to develop the **Engineering Knowledge & Decision Workflow Platform**, with current work focused on resource-level authorization, identity attribution, security controls, and production hardening.
